@@ -1,0 +1,5 @@
+{
+  "name": "customer-support-system",
+  "version": "1.0.0",
+  "$schema": "https://raw.githubusercontent.com/supabase/supabase/master/packages/config/src/config.schema.json"
+}

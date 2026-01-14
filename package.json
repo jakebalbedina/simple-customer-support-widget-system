@@ -1,0 +1,12 @@
+{
+  "name": "customer-support-widget-system",
+  "version": "1.0.0",
+  "description": "Full-stack customer support widget system with React and Supabase",
+  "private": true,
+  "workspaces": [
+    "frontend"
+  ],
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  }
+}
